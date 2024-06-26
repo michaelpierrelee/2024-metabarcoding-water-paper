@@ -1,0 +1,4 @@
+sample-id	Condition	read 1	read 2
+21% O2	21% O2	20.rawdata_1	20.rawdata_2
+60% O2	60% O2	60.rawdata_1	60.rawdata_2
+100% O2	100% O2	100.rawdata_1	100.rawdata_2

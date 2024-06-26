@@ -1,0 +1,4 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+21% O2	/home/michael/2024-04_kapill/clean_data/2-trimmed/20.rawdata_1.fq.gz	/home/michael/2024-04_kapill/clean_data/2-trimmed/20.rawdata_2.fq.gz
+60% O2	/home/michael/2024-04_kapill/clean_data/2-trimmed/60.rawdata_1.fq.gz	/home/michael/2024-04_kapill/clean_data/2-trimmed/60.rawdata_2.fq.gz
+100% O2	/home/michael/2024-04_kapill/clean_data/2-trimmed/100.rawdata_1.fq.gz	/home/michael/2024-04_kapill/clean_data/2-trimmed/100.rawdata_2.fq.gz
