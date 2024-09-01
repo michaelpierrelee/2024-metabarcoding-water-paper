@@ -1,5 +1,7 @@
 # Taxonomic profiling of 16S rDNA metabarcoding data
 
+Copy from my repo at [https://gitlab.gbar.dtu.dk/b2et-group-dtu-sustain/2024-kapil_tiwari-16s_mbbr](https://gitlab.gbar.dtu.dk/b2et-group-dtu-sustain/2024-kapil_tiwari-16s_mbbr).
+
 * _author: Michaël Pierrelée_
 * _date: April 2024_
 * _Technical University of Denmark, DTU Sustain - Lyngby, DENMARK_
